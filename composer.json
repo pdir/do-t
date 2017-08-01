@@ -1,0 +1,19 @@
+{
+  "name": "olado/doT",
+  "description": "Concise and fast javascript templating compatible with nodejs and other javascript environments",
+  "keywords": ["template","fast","simple","templating"],
+  "homepage":"http://pavelk2.github.io/social-feed-example/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Laura Doktorova",
+      "homepage": "https://github.com/olado",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/olado/doT/issues",
+    "source": "https://github.com/olado/doT"
+  },
+  "minimum-stability": "dev"
+}
